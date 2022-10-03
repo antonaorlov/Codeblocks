@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\owner\desktop\project3\main.cpp
+	<iostream>
+
+1664723516 source:c:\users\owner\desktop\project3\src\post.cpp
+	"Post.h"
+
+1664723517 c:\users\owner\desktop\project3\include\post.h
+	<time.h>
+	<string>
+	<iostream>
+	<vector>
+
+1664737951 source:c:\users\owner\desktop\project3\src\account.cpp
+	"Account.h"
+	"Post.h"
+	"Network.h"
+
+1664734676 c:\users\owner\desktop\project3\include\account.h
+	"Post.h"
+	<vector>
+	<string>
+
+1664735679 source:c:\users\owner\desktop\project3\src\network.cpp
+	"Network.h"
+
+1664735679 c:\users\owner\desktop\project3\include\network.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<cstdlib>
+
